@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryBot", "tryBot\tryBot.csproj", "{37E21F4E-C7A2-40C6-9667-C33F4751371A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E21F4E-C7A2-40C6-9667-C33F4751371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E21F4E-C7A2-40C6-9667-C33F4751371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E21F4E-C7A2-40C6-9667-C33F4751371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E21F4E-C7A2-40C6-9667-C33F4751371A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {439006E8-CCC8-400D-93CA-1471E17FBE9E}
+	EndGlobalSection
+EndGlobal
